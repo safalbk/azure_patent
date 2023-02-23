@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/f8249b0d-4c66-4e99-91cd-4d1763929565/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/bolgattypatent",
+    "appService.deploySubpath": "."
+}
